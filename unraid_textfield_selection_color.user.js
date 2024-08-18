@@ -8,9 +8,9 @@
 // @grant        GM_getResourceText
 // @grant        GM.xmlHttpRequest
 // @connect      github.com
-// @downloadURL  https://github.com/dorstmedia/unraid-tampermonkey/raw/main/unraid_textfield_selection_color.user.js
-// @updateURL    https://github.com/dorstmedia/unraid-tampermonkey/raw/main/unraid_textfield_selection_color.user.js
-// @resource     IMPORTED_CSS https://github.com/dorstmedia/unraid-tampermonkey/raw/main/unraid_textfield_selection_color.user.css
+// @downloadURL  https://raw.githubusercontent.com/dorstmedia/unraid-tampermonkey/master/unraid_textfield_selection_color.user.js
+// @updateURL    https://raw.githubusercontent.com/dorstmedia/unraid-tampermonkey/master/unraid_textfield_selection_color.user.js
+// @resource     IMPORTED_CSS https://raw.githubusercontent.com/dorstmedia/unraid-tampermonkey/master/unraid_textfield_selection_color.user.css
 // @run-at       document-body
 // ==/UserScript==
 (function() {
