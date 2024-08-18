@@ -1,0 +1,90 @@
+div.cm-s-dracula .CodeMirror-selected,
+div.cm-s-dracula .CodeMirror-line::selection,
+div.cm-s-dracula .CodeMirror-line>span::selection,
+div.cm-s-dracula .CodeMirror-line>span>span::selection,
+div.cm-s-dracula .CodeMirror-line::-moz-selection,
+div.cm-s-dracula .CodeMirror-line>span::-moz-selection,
+div.cm-s-dracula .CodeMirror-line>span>span::-moz-selection{
+	background-color:rgba(255,140,0,0.5) !important;
+	background:rgba(255,140,0,0.5) !important;
+	color:#fff !important;
+}
+div.cm-s-dracula .CodeMirror-selected{
+	background:rgba(255,140,0,0.5) !important;
+	color:#fff !important;
+}
+div.cm-s-dracula .CodeMirror-line::selection,
+div.cm-s-dracula .CodeMirror-line>span::selection,
+div.cm-s-dracula .CodeMirror-line>span>span::selection{
+	background:rgba(255,140,0,0.5) !important;
+	color:#fff !important;
+}
+div.cm-s-dracula .CodeMirror-line::-moz-selection,
+div.cm-s-dracula .CodeMirror-line>span::-moz-selection,
+div.cm-s-dracula .CodeMirror-line>span>span::-moz-selection{
+	background:rgba(255,140,0,0.5) !important;
+	color:#fff !important;
+}
+
+div.CodeMirror .CodeMirror-selected,
+div.CodeMirror .CodeMirror-line::selection,
+div.CodeMirror .CodeMirror-line>span::selection,
+div.CodeMirror .CodeMirror-line>span>span::selection,
+div.CodeMirror .CodeMirror-line::-moz-selection,
+div.CodeMirror .CodeMirror-line>span::-moz-selection,
+div.CodeMirror .CodeMirror-line>span>span::-moz-selection{
+	background:rgba(255,140,0,0.5) !important;
+	color:#fff !important;
+}
+
+div.CodeMirror .CodeMirror-selected{
+	background:rgba(255,140,0,0.5) !important;
+	color:#fff !important;
+}
+div.CodeMirror .CodeMirror-line::selection,
+div.CodeMirror .CodeMirror-line>span::selection,
+div.CodeMirror .CodeMirror-line>span>span::selection{
+	background:rgba(255,140,0,0.5) !important;
+	color:#fff !important;
+}
+div.CodeMirror .CodeMirror-line::-moz-selection,
+div.CodeMirror .CodeMirror-line>span::-moz-selection,
+div.CodeMirror .CodeMirror-line>span>span::-moz-selection{
+	background:rgba(255,140,0,0.5) !important;
+	color:#fff !important;
+}
+.ace_selection,
+.ace_marker-layer .ace_selection,
+.ace-tomorrow-night .ace_marker-layer .ace_selection,
+.ace_marker-layer .ace_selected-word {
+	xbackground:rgba(255,140,0,0.5) !important;
+	xcolor:#fff !important;
+	border: 1px solid rgba(255,140,0,1) !important;
+	padding:1px;
+	margin-top:-1px;
+	margin-left:1px;
+	padding: 1px 2px;
+  margin-top: -1px;
+  margin-left: -2px;
+}
+.ace_marker-layer .ace_selected-word {
+  border: 1px solid rgba(255,140,0,1) !important;
+}
+.ace_layer.ace_text-layer .ace_line span::-moz-selection,
+.ace_layer.ace_text-layer .ace_line span::selection,
+.ace_line span::-moz-selection,
+.ace_line span::selection,
+.ace_marker-layer .ace_selected-word,
+.ace_marker-layer .ace_selection,
+.ace_content::-moz-selection,
+.ace_content::selection,
+.ace-tomorrow-night::-moz-selection,
+.ace-tomorrow-night>span::-moz-selection,
+.ace-tomorrow-night *::-moz-selection,
+.ace-tomorrow-night::selection,
+.ace-tomorrow-night>span::selection,
+.ace-tomorrow-night *::selection{
+	background-color:rgba(255,140,0,0.5) !important;
+	background:rgba(255,140,0,0.5) !important;
+	color:#fff !important;
+}
