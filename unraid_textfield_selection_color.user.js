@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         unraid_textfield_selection_color
 // @namespace    https://github.com/dorstmedia/unraid-tampermonkey
-// @version      1.0.0.0
+// @version      1.0.0.1
 // @description  
-// @match        *://unraid-*.local/*
+// @match        *://unraid-nuc.local/*
+// @match        *://unraid-itx.local/*
+// @match        *://unraid-xeon.local/*
+// @match        *://unraid-epyc.local/*
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @grant        GM.xmlHttpRequest
